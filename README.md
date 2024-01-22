@@ -40,7 +40,7 @@ Follow these steps to set up and run the Car Damage Assessment Streamlit App:
    pip install -r requirements.txt
 3. Run the Streamlit app :
     ```bash
-    streamlit run streamlit_app.py
+    streamlit run app.py
 4. Open your browser and navigate to the provided local URL to access the app.
 
 # Models
