@@ -64,6 +64,5 @@ The application uses the following models:
 - **Damaged Parts and Type Detection:**
   - YOLOv8.
   - Detectron2
-# Access the Live Streamlit App
- Explore the Car Damage Assessment App hosted on Streamlit **[Car Image Analysis App](https://aiornot.streamlit.app/) 🚀
+
 
