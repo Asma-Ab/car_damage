@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  Car Image Analysis App
+  Car Damage Assessment App
 </h1>
 
 # Car Damage Assessment App
