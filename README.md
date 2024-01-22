@@ -23,6 +23,9 @@ Predict the severity of the damage in the car image. It can be Minor, Moderate, 
 
 Detect and highlight damaged parts and the damage type in the car image.
 
+### 4. Damage Repair Cost
+
+Predict the repair cost according to the damage severity and the damage type.
 
 # Getting Started
 
